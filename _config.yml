@@ -1,0 +1,28 @@
+name: syncedbox
+favicon: null
+layout_spectrum: 0.23127147811464965
+typography_spectrum: 0.9833149353507906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.031178338220342994
+  lightness: 0.9113023430109024
+  saturation: 0.20563901006244123
+  rhythmicContrast: 0.6843354324810207
+purpose: []
